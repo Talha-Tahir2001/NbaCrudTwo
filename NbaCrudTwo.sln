@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbaCrudTwo", "NbaCrudTwo\NbaCrudTwo.csproj", "{21BC442F-0C1F-472C-9392-767289164369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21BC442F-0C1F-472C-9392-767289164369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BC442F-0C1F-472C-9392-767289164369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BC442F-0C1F-472C-9392-767289164369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BC442F-0C1F-472C-9392-767289164369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {804FD41A-21D8-407C-9DC7-7B19773F3D80}
+	EndGlobalSection
+EndGlobal
